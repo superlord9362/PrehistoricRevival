@@ -1,0 +1,14 @@
+{
+  "type": "prehistoric_revival:recipe_cultivator",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoric_revival:potamoceratodus_dna"
+  },
+  "results": [
+    {
+      "item": "prehistoric_revival:cloned_potamoceratodus",
+      "count": 1,
+		"weight": 100
+    }
+  ]
+}

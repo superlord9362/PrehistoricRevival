@@ -1,0 +1,24 @@
+modLoader="javafml" #mandatory
+loaderVersion="[35,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="All rights reserved"
+[[mods]] #mandatory
+modId="prehistoric_revival" #mandatory
+version="1.0.0" #mandatory
+displayName="Prehistoric Revival" #mandatory
+credits="superlord9362(code), Crimes Against Art(art), Bastion(art)" #optional
+authors="superlord9362" #optional
+description='''
+An add-on to Prehistoric Fauna that allows the player to recreate the prehistoric creatures using DNA.
+'''
+[[dependencies.prehistoric_revival]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[35,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.prehistoric_revival]] #optional
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,94 @@
+{
+  "type": "prehistoric_revival:recipe_dna_analyzer",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoricfauna:triassic_fossil"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:sandstone",
+      "count": 1,
+      "weight": 10.0
+    },
+    {
+      "item": "prehistoric_revival:herrerasaurus_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:cladophlebis_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:araucaria_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:heidiphyllum_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:ischigualastia_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:hyperodapedon_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:dicroidium_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:johnstonia_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:scytophyllum_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:michelilloa_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:protojuniperoxylon_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:ceratodus_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:exaeretodon_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:saurosuchus_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:sillosuchus_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:chromogisaurus_dna",
+      "count": 1,
+      "weight": 2.5
+    }
+  ]
+}

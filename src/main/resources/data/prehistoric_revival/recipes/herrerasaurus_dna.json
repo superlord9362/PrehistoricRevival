@@ -1,0 +1,17 @@
+{
+  "type": "prehistoric_revival:recipe_cultivator",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoric_revival:herrerasaurus_dna"
+  },
+  "eggInput": {
+	"item": "minecraft:egg"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:herrerasaurus_egg",
+      "count": 1,
+		"weight": 100
+    }
+  ]
+}

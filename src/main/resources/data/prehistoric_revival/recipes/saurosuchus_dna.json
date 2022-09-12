@@ -1,0 +1,19 @@
+{
+  "type": "prehistoric_revival:recipe_dna_analyzer",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoricfauna:saurosuchus_fossil"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:sandstone",
+      "count": 1,
+      "weight": 50.0
+    },
+    {
+      "item": "prehistoric_revival:saurosuchus_dna",
+      "count": 1,
+      "weight": 50.0
+    }
+  ]
+}

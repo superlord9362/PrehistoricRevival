@@ -1,0 +1,17 @@
+{
+  "type": "prehistoric_revival:recipe_cultivator",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoric_revival:zamites_dna"
+  },
+  "eggInput": {
+	"tag": "prehistoric_revival:seeds"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:zamites_sapling",
+      "count": 1,
+		"weight": 100
+    }
+  ]
+}

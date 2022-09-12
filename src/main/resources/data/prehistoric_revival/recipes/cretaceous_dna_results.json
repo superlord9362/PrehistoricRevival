@@ -1,0 +1,99 @@
+{
+  "type": "prehistoric_revival:recipe_dna_analyzer",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoricfauna:cretaceous_fossil"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:chalk",
+      "count": 1,
+      "weight": 10.0
+    },
+    {
+      "item": "prehistoric_revival:triceratops_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:tyrannosaurus_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:horsetail_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:osmunda_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:araucaria_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:ankylosaurus_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:liriodendrites_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:metasequoia_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:clubmoss_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:myledaphus_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:gar_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:cyclurus_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:marchantia_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:didelphodon_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:thescelosaurus_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:dakotaraptor_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:basilemys_dna",
+      "count": 1,
+      "weight": 2.5
+    }
+  ]
+}

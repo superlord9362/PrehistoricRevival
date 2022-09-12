@@ -1,0 +1,19 @@
+{
+  "type": "prehistoric_revival:recipe_dna_analyzer",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoricfauna:ankylosaurus_skull"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:chalk",
+      "count": 1,
+      "weight": 25.0
+    },
+    {
+      "item": "prehistoric_revival:ankylosaurus_dna",
+      "count": 1,
+      "weight": 75.0
+    }
+  ]
+}

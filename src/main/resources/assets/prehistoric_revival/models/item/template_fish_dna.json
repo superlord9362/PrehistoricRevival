@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "prehistoric_revival:items/dna_syringe_overlay_1",
+		"layer1": "prehistoric_revival:items/dna_syringe_overlay_2",
+		"layer2": "prehistoric_revival:items/fish_syringe"
+    }
+}

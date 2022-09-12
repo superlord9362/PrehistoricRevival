@@ -1,0 +1,89 @@
+{
+  "type": "prehistoric_revival:recipe_dna_analyzer",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoricfauna:jurassic_fossil"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:siltstone",
+      "count": 1,
+      "weight": 10.0
+    },
+    {
+      "item": "prehistoric_revival:allosaurus_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:camarasaurus_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:horsetail_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:coniopteris_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:araucaria_dna",
+      "count": 1,
+      "weight": 5.0
+    },
+    {
+      "item": "prehistoric_revival:ceratosaurus_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:zamites_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:protopiceoxylon_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:ptilophyllum_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:potamoceratodus_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:ceratodus_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:stegosaurus_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:eilenodon_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:hesperornithoides_dna",
+      "count": 1,
+      "weight": 2.5
+    },
+    {
+      "item": "prehistoric_revival:dryosaurus_dna",
+      "count": 1,
+      "weight": 2.5
+    }
+  ]
+}

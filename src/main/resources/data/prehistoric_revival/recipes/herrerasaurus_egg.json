@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "prehistoric_revival:herrerasaurus_dna"
+    },
+	{
+	"tag": "prehistoric_revival:eggs"
+	}
+  ],
+  "result": {
+    "item": "prehistoricfauna:herrerasaurus_egg"
+  }
+}

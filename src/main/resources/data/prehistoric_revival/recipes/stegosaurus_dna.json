@@ -1,0 +1,19 @@
+{
+  "type": "prehistoric_revival:recipe_dna_analyzer",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoricfauna:stegosaurus_fossil"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:siltstone",
+      "count": 1,
+      "weight": 50.0
+    },
+    {
+      "item": "prehistoric_revival:stegosaurus_dna",
+      "count": 1,
+      "weight": 50.0
+    }
+  ]
+}

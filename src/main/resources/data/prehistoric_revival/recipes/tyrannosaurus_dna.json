@@ -1,0 +1,19 @@
+{
+  "type": "prehistoric_revival:recipe_dna_analyzer",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoricfauna:tyrannosaurus_fossil"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:chalk",
+      "count": 1,
+      "weight": 50.0
+    },
+    {
+      "item": "prehistoric_revival:tyrannosaurus_dna",
+      "count": 1,
+      "weight": 50.0
+    }
+  ]
+}

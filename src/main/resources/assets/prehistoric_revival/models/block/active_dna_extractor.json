@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"0": "prehistoric_revival:blocks/dna_extractor_bottom",
+		"1": "prehistoric_revival:blocks/dna_extractor_front_active",
+		"2": "prehistoric_revival:blocks/dna_extractor_left",
+		"3": "prehistoric_revival:blocks/dna_extractor_back",
+		"4": "prehistoric_revival:blocks/dna_extractor_right",
+		"5": "prehistoric_revival:blocks/dna_extractor_top",
+		"particle": "prehistoric_revival:blocks/dna_extractor_bottom"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#5"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "prehistoric_revival:recipe_cultivator",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoric_revival:myledaphus_dna"
+  },
+  "eggInput": {
+	"item": "minecraft:water_bucket"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:myledaphus_bucket",
+      "count": 1,
+		"weight": 100
+    }
+  ]
+}

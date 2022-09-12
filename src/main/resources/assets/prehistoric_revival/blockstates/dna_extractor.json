@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,active=false": { "model": "prehistoric_revival:block/dna_extractor" },
+        "facing=south,active=false": { "model": "prehistoric_revival:block/dna_extractor", "y": 180 },
+        "facing=west,active=false":  { "model": "prehistoric_revival:block/dna_extractor", "y": 270 },
+        "facing=east,active=false":  { "model": "prehistoric_revival:block/dna_extractor", "y": 90 },
+        "facing=north,active=true": { "model": "prehistoric_revival:block/active_dna_extractor" },
+        "facing=south,active=true": { "model": "prehistoric_revival:block/active_dna_extractor", "y": 180 },
+        "facing=west,active=true":  { "model": "prehistoric_revival:block/active_dna_extractor", "y": 270 },
+        "facing=east,active=true":  { "model": "prehistoric_revival:block/active_dna_extractor", "y": 90 }
+    }
+}

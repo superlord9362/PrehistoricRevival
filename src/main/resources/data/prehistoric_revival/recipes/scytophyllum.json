@@ -1,0 +1,17 @@
+{
+  "type": "prehistoric_revival:recipe_cultivator",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoric_revival:scytophyllum_dna"
+  },
+  "eggInput": {
+	"tag": "prehistoric_revival:seeds"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:scytophyllum",
+      "count": 1,
+		"weight": 100
+    }
+  ]
+}

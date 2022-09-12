@@ -1,0 +1,17 @@
+{
+  "type": "prehistoric_revival:recipe_cultivator",
+  "group": "prehistoric_revival",
+  "input": {
+    "item": "prehistoric_revival:protopiceoxylon_dna"
+  },
+  "eggInput": {
+	"tag": "prehistoric_revival:saplings"
+  },
+  "results": [
+    {
+      "item": "prehistoricfauna:protopiceoxylon_sapling",
+      "count": 1,
+		"weight": 100
+    }
+  ]
+}

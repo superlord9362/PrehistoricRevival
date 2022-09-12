@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,active=false": { "model": "prehistoric_revival:block/cultivator" },
+        "facing=south,active=false": { "model": "prehistoric_revival:block/cultivator", "y": 180 },
+        "facing=west,active=false":  { "model": "prehistoric_revival:block/cultivator", "y": 270 },
+        "facing=east,active=false":  { "model": "prehistoric_revival:block/cultivator", "y": 90 },
+        "facing=north,active=true": { "model": "prehistoric_revival:block/active_cultivator" },
+        "facing=south,active=true": { "model": "prehistoric_revival:block/active_cultivator", "y": 180 },
+        "facing=west,active=true":  { "model": "prehistoric_revival:block/active_cultivator", "y": 270 },
+        "facing=east,active=true":  { "model": "prehistoric_revival:block/active_cultivator", "y": 90 }
+    }
+}
